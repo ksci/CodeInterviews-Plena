@@ -1,6 +1,10 @@
 # CodeInterviews-Plena
 Plena Data Jr Assessment
 
+## Function
+Prints the first letter that is not repeated in a string and then prints the string in the order of letter occurances and letter appearance.  The first letter that is not repeated means the first occurring letter that does not appear anywhere else in the string.  This may be an empty character.
+
+## Run
 To run this program you will just need to execute Plena.py.  It is written in python 3.7 and does not use any external libraries.  I have also included a jupyter notebook.
 
 ## Final Questions
